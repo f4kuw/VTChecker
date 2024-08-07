@@ -6,6 +6,8 @@ This script aims to check multiple hashes or URLs with Virus Total API.
 
 ## Usage
 
+Don't hesitate to  ``pip install -r requirements.txt`` 
+
 ### Virus Total API: 
 
 To use this tool, you'll need a VirusTotal API key. You can register to VirusTotal in order to get one, it's free. Check [here](https://docs.virustotal.com/docs/api-scripts-and-client-libraries).  
