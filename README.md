@@ -17,7 +17,7 @@ You need to create a file called api_keys.ini, in order to store your api key lo
 
 ### Checking hashes:   
 
-This will check on Virus total if it's malicious or not, and will give you the link of the search.   
+This will check on Virus total if the hash matches a known file and tell you if it's malicious or not, and will give you the link of the search.   
 
 ``python3 VTChecker.py -m hashes.txt``   
 
